@@ -1,5 +1,5 @@
 theme: jekyll-theme-hacker
 title: Welcome to my homepage
 description: Bookmark this to keep and eye on my project updates!
-Inline-style: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+Inline-style: ![alt text](/assets/yo.jpg "Logo")
 content: Hello World
