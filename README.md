@@ -1,4 +1,3 @@
-## Image Testing
 ![alt "Logo"](/assets/privateinvestocat.png "Logo")
 
 
