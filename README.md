@@ -3,8 +3,8 @@
 
 ## Welcome to Sergi Planes [github.](https://github.com/sergiplanes/)
 
-Currently developing private repositories for my engineering degree.
-\Mostly in ```Java, Python, C++```
+Currently developing private repositories for my engineering degree.  
+Mostly in ```Java, Python, C++```
 
 You can use the [editor on GitHub](https://github.com/sergiplanes/sergiplanes.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
