@@ -1,6 +1,6 @@
 theme: jekyll-theme-hacker
 title: Welcome to my homepage
 description: Bookmark this to keep and eye on my project updates!
-![Image of Investocat]
-(https://octodex.github.com/images/privateinvestocat.jpg)
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 content: Hello World
