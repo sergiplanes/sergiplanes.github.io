@@ -1,5 +1,5 @@
 ## Image Testing
-Inline-style: ![alt text](/assets/privateinvestocat.png "Logo")
+![alt "Logo"](/assets/privateinvestocat.png "Logo")
 
 
 ## Welcome to GitHub Pages
