@@ -1,6 +1,5 @@
 theme: jekyll-theme-hacker
 title: Welcome to my homepage
 description: Bookmark this to keep and eye on my project updates!
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 content: Hello World
