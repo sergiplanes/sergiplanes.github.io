@@ -10,7 +10,7 @@ Mostly in ```Java, Python, C++ and Android```
 --Vocational training in ```Computing + Networking.```
 
 ## Current Projects
-1. Java
-2. C++
-3. Python
-4. Android
+1. Java: ```Currently any projects```
+2. C++ ```Currently any projects```
+3. Python ```Currently any projects```
+4. Android ```Currently any projects```
