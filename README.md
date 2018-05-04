@@ -8,3 +8,10 @@ Mostly in ```Java, Python, C++ and Android```
 
 ## Assets
 --Vocational training in ```Computing + Networking.´´´
+
+## Current Projects
+
+1. Java
+2. C++
+3. Python
+4. Android
