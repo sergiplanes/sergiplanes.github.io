@@ -16,6 +16,6 @@ Mostly in ```Java, Python, C++ and Android```
             - Queue
             - Trees --> BST and AVL
             - Map
-```
+
 3. Python ```Currently any projects```
 4. Android - [PIS_19](https://github.com/ub-pis/PIS_19/)
