@@ -7,4 +7,4 @@ Currently developing private repositories for my engineering degree.
 Mostly in ```Java, Python, C++ and Android```
 
 ## Assets
---Vocational training in computing + networking.
+--Vocational training in ```Computing + Networking.´´´
