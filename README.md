@@ -10,7 +10,7 @@ Mostly in ```Java, Python, C++ and Android```
 
 ## Current Projects
 1. Java: ```Currently any projects```
-2. C++ - Currently, developing some data structures in c++ for university.
+2. C++ - Currently, developing some data structures in c++11 .
             -Stacks
             -Queue
             -Trees --> BST and AVL
