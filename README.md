@@ -10,12 +10,12 @@ Mostly in ```Java, Python, C++ and Android```
 
 ## Current Projects
 1. Java: ```Currently any projects```
-2. C++: ```Currently, developing some data structures in c++11 .  
-
+2. C++: Currently, developing some data structures in c++11 .  
+```
             - Stacks
             - Queue
-            - Trees --> BST and AVL
+            - Trees like BST's and AVL's
             - Map
-
+```
 3. Python ```Currently any projects```
 4. Android - [PIS_19](https://github.com/ub-pis/PIS_19/)
