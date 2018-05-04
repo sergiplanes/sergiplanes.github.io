@@ -13,9 +13,9 @@ Mostly in ```Java, Python, C++ and Android```
 2. C++: Currently, developing some data structures in c++11 .  
 ```
             - Stacks
-            - Queue
-            - Trees like BST's and AVL's
-            - Map
+            - Queues
+            - Trees like BST's & AVL's
+            - Maps & HashMaps
 ```
 3. Python ```Currently any projects```
 4. Android - [PIS_19](https://github.com/ub-pis/PIS_19/)
